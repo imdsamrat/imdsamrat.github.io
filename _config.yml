@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Samrat Karmbir Singh
 description         : >-
-                      I turn coffee :coffee: into code, use tabs over spaces and never broke production.
+                      I turn coffee :coffee: into code ::):, use tabs over spaces and never broke production.
 # baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : imdsamrat/imdsamrat.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : imdsamrat/profiletheme
@@ -22,7 +22,7 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Samrat Singh
+  name              : Samrat
   image             : /images/samrat_photo.jpg
   # behance           : your_username
 # dribbble          : your_username
