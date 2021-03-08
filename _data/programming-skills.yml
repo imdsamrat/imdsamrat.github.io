@@ -1,19 +1,19 @@
 - name: Datastructures
   percentage: 90
-  color: danger
+  color: success
 
 - name: Algorithms
-  percentage: 80
-  color:
+  percentage: 90
+  color: success
 
 - name: Java
-  percentage: 70
-  color: dark
+  percentage: 80
+  color: success
 
 - name: C/C++
-  percentage: 90
-  color: danger
+  percentage: 60
+  color: info
 
 - name: Python
-  percentage: 80
-  color:
+  percentage: 30
+  color: danger

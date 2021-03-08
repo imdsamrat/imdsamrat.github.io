@@ -4,4 +4,4 @@
 
 - name: Cloud (AWS, Azure)
   percentage: 60
-  color: success
+  color: info
