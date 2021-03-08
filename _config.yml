@@ -94,3 +94,5 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
+  - projects.html
+  - blog.html
