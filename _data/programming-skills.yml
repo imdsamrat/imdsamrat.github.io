@@ -1,11 +1,19 @@
-- name: HTML5/CSS3
+- name: Datastructures
   percentage: 90
   color: danger
 
-- name: Go
+- name: Algorithms
   percentage: 80
   color:
 
-- name: Python
+- name: Java
   percentage: 70
   color: dark
+
+- name: C/C++
+  percentage: 90
+  color: danger
+
+- name: Python
+  percentage: 80
+  color:
