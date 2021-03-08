@@ -46,11 +46,6 @@ linkedin:
   icon  : fab fa-linkedin-in
   color : 007bb5
 
-leetCode:
-  url   : https://leetcode.com/
-  icon  : fab fa-leetcode-in
-  color : 007bb
-
 medium:
   url   : https://medium.com/@
   icon  : fab fa-medium
