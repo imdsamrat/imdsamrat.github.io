@@ -7,7 +7,7 @@ weight: 1
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :pray:<br>
+Hi I am **{{ site.author.name }}** :pray:
 <div align="justify">
 I am from India and I am currently a software engineer at Standard Chartered GBS - India. Prior to that I have worked as software engineer at Samsung Research Institute, Bangalore and as software developer at Ola cabs, Bangalore. I pursued my bechelor's degree in Computer Science and Engineering from National Institute of Technology, Allahabad, IN. 
 </div>
