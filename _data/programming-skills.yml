@@ -12,4 +12,4 @@
 
 - name: C/C++
   percentage: 60
-  color: info
+  color: success
