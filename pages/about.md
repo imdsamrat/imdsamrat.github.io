@@ -7,7 +7,7 @@ weight: 1
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :pray:
+Hi I am **{{ site.author.name }}**
 <div align="justify">
 I am from India, with over 3.5 years of work experience in software development domain mostly in a backend role. Skilled in Data Structures and Algorithm, Java, C++, Python. I pursued my bechelor's degree in Computer Science and Engineering from <b>National Institute of Technology Allahabad, IN</b>.
 <br>
