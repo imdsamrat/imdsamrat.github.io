@@ -8,11 +8,8 @@ weight: 1
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :pray:
-**{{ site.author.name }}**
-**{{ site.author.name }}**
-**{{ site.author.name }}** **{National Institute of Technology Allahabad, IN}** 
 <div align="justify">
-I am from India, with over 3.5 years of work experience in software development domain mostly in a backend role. Skilled in Data Structures and Algorithm, Java, C++, Python. I pursued my bechelor's degree in Computer Science and Engineering from **National** Institute of Technology Allahabad, IN.
+I am from India, with over 3.5 years of work experience in software development domain mostly in a backend role. Skilled in Data Structures and Algorithm, Java, C++, Python. I pursued my bechelor's degree in Computer Science and Engineering from <b>National Institute of Technology Allahabad, IN</b>.
 <br>
 I started learning programming at my college. Slowly, I learnt about the endless possibilities of computer programs along with the enjoyment of challenging myself to make my programs work. In addition to being passionate about programming, I am eager to challenge myself to do things I've never accomplished before and I strive to learn and improve on my skills every day.
 </div>
