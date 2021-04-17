@@ -1,11 +1,6 @@
-- title: Student, National Institute of Technology, Allahabad, IN
-  from: 2013
-  to: 2017
-  description: Pursued bachelor of technology in Computer Science and Engineeing.
-
-- title: Senior Software Engineer, Samsung Research Institute, Bangalore, IN
-  from: July 2017
-  to: July 2019
+- title: Senior Developer, Standard Chartered GBS, Bangalore, IN
+  from: June 2020
+  to: Present
   description: Worked on multiple project
 
 - title: Software Development Engineer, OLA(ANI Technologies Pvt. Ltd.), Bangalore, IN
@@ -13,7 +8,18 @@
   to: May 2020
   description: Worked on multiple project.
 
-- title: Senior Developer, Standard Chartered GBS, Bangalore, IN
-  from: June 2020
-  to: Present
+- title: Senior Software Engineer, Samsung Research Institute, Bangalore, IN
+  from: July 2017
+  to: July 2019
   description: Worked on multiple project
+
+- title: Student, National Institute of Technology, Allahabad, IN
+  from: July 2013
+  to: May 2017
+  description: Pursued bachelor of technology in Computer Science and Engineeing.
+
+
+
+
+
+
