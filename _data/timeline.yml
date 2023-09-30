@@ -1,14 +1,12 @@
 - title: Senior Software Engineer, MoEngage Inc, Bangalore, IN
   from: July 2021
   to: May 2023
-  description:
-    - "Worked on different microservices which includes developing new features, writing scripts, building pipelines, revamping & improvising multiple services."
-    - "Major contributions are UIS(Users in Segment) negative segments design and documentation. Improved UIS Segment's first execution cycle. Developed acquisition stats feature and sentry integration with Dataware house and MoEngage dashboard. Written various scripts to fix the schema of the base and change log tables. Revamp user re-sync and user compact feature. Implemented PII(Personal Identifiable Information) hiding for user profle, user info, events info, user search, user pop-up, and recent events. Implemented Nested AND/OR and aggregation feature. Sentry integration in all Java services. Data retention CRUD APIs in py3 client and change history tracking. Improvements in events based on metadata API results. Mongo Elasticsearch sync revamp - Tech documentation, DTO for BSON document to ES doc, ES write flush. SDP(Single Data Pipeline) Request ID integration with DW and data points. Service onboard and set up in new AWS and Azure data centers. Pager duties and on-call responsibilities."
+  description: Worked on different microservices which includes developing new features, writing scripts, building pipelines, revamping & improvising multiple services. Major contributions are UIS(Users in Segment) negative segments design and documentation. Improved UIS Segment's first execution cycle. Developed acquisition stats feature and sentry integration with Dataware house and MoEngage dashboard. Written various scripts to fix the schema of the base and change log tables. Revamp user re-sync and user compact feature. Implemented PII(Personal Identifiable Information) hiding for user profle, user info, events info, user search, user pop-up, and recent events. Implemented Nested AND/OR and aggregation feature. Sentry integration in all Java services. Data retention CRUD APIs in py3 client and change history tracking. Improvements in events based on metadata API results. Mongo Elasticsearch sync revamp - Tech documentation, DTO for BSON document to ES doc, ES write flush. SDP(Single Data Pipeline) Request ID integration with DW and data points. Service onboard and set up in new AWS and Azure data centers. Pager duties and on-call responsibilities.
 
 - title: Founder, Raptor Academy, IN
   from: March 2021
   to: Present
-  description: "[Raptor Academy](https://raptoracademy.in)"
+  description: <a href="https://raptoracademy.in">Raptor Academy</a>
 
 - title: Senior Developer, Standard Chartered GBS, Bangalore, IN
   from: July 2020
