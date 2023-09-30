@@ -2,10 +2,10 @@
   percentage: 90
   color: info
 
-- name: Android
-  percentage: 70
+- name: AWS
+  percentage: 100
   color: info
 
-- name: AWS, Azure (Basics)
-  percentage: 50
+- name: Android
+  percentage: 70
   color: info

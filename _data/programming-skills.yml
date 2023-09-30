@@ -1,4 +1,4 @@
-- name: Datastructures
+- name: Data Structures
   percentage: 90
   color: success
 
@@ -7,9 +7,37 @@
   color: success
 
 - name: Java
+  percentage: 100
+  color: success
+
+- name: Python
   percentage: 90
   color: success
 
-- name: C/C++
+- name: Spring, Spring Boot
+  percentage: 100
+  color: success
+
+- name: MongoDB
+  percentage: 90
+  color: success
+
+- name: MySQL
+  percentage: 90
+  color: success
+
+- name: ELK
+  percentage: 90
+  color: success
+
+- name: Kafka
+  percentage: 70
+  color: success
+
+- name: Spark
+  percentage: 70
+  color: success
+
+- name: Airflow
   percentage: 70
   color: success
