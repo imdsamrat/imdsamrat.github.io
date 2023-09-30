@@ -1,14 +1,14 @@
 - name: Kafka
   percentage: 85
-  color: success
+  color: info
 
 - name: Spark
   percentage: 85
-  color: success
+  color: info
 
 - name: Airflow
   percentage: 85
-  color: success
+  color: info
 
 - name: AWS
   percentage: 100
