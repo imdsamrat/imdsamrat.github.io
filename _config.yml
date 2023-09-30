@@ -1,7 +1,7 @@
 ### Site Settings ###
 title: Samrat Singh
 description: >-
-  I turn :coffee: into <i class="fas fa-code"></i>, use tabs over spaces and never broke production.
+  I turn :coffee: into code, use tabs over spaces and never broke production.
 # baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository: imdsamrat/imdsamrat.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme: imdsamrat/profiletheme
