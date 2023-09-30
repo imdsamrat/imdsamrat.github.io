@@ -1,5 +1,5 @@
 - name: Kafka
-  percentage: 85
+  percentage: 100
   color: info
 
 - name: Spark
@@ -15,5 +15,5 @@
   color: info
 
 - name: Android
-  percentage: 80
+  percentage: 85
   color: info

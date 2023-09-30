@@ -1,9 +1,9 @@
 - name: Data Structures
-  percentage: 90
+  percentage: 95
   color: success
 
 - name: Algorithms
-  percentage: 90
+  percentage: 95
   color: success
 
 - name: Java
@@ -19,7 +19,7 @@
   color: success
 
 - name: MongoDB
-  percentage: 90
+  percentage: 95
   color: success
 
 - name: MySQL
@@ -27,5 +27,5 @@
   color: success
 
 - name: ELK
-  percentage: 90
+  percentage: 85
   color: success
