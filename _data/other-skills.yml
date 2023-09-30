@@ -1,11 +1,19 @@
-- name: Backend Development
-  percentage: 90
-  color: info
+- name: Kafka
+  percentage: 85
+  color: success
+
+- name: Spark
+  percentage: 85
+  color: success
+
+- name: Airflow
+  percentage: 85
+  color: success
 
 - name: AWS
   percentage: 100
   color: info
 
 - name: Android
-  percentage: 70
+  percentage: 80
   color: info

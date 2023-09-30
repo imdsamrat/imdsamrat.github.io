@@ -2,21 +2,20 @@
   from: July 2021
   to: May 2023
   description:
-    - Worked on different microservices which includes developing new features, writing scripts, building pipelines, revamping & improvising multiple services. Below are some major contributions.
-    - UIS(Users in Segment) negative segments design and documentation.
-    - Improved UIS Segment's first execution cycle.
-    - Developed acquisition stats feature and sentry integration with Dataware house and MoEngage dashboard.
-    - Written various scripts to fix the schema of the base and change log tables.
-    - Revamp user re-sync and user compact feature.
-    - Implemented PII(Personal Identifiable Information) hiding for user profle, user info, events info, user search, user pop-up, and recent events.
-    - Implemented Nested AND/OR and aggregation feature.
-    - Sentry integration in all Java services.
-    - Data retention CRUD APIs in py3 client and change history tracking.
-    - Improvements in events based on metadata API results.
-    - Mongo Elasticsearch sync revamp: Tech documentation, DTO for BSON document to ES doc, ES write flush.
-    - SDP(Single Data Pipeline): Request ID integration with DW and data points.
-    - Service onboard and set up in new AWS and Azure data centers.
-    - Pager duties and on-call responsibilities.
+  1: Worked on different microservices which includes developing new features, writing scripts, building pipelines, revamping & improvising multiple services. Below are some major contributions.
+  2: UIS(Users in Segment) negative segments design and documentation. Improved UIS Segment's first execution cycle.
+  3: Developed acquisition stats feature and sentry integration with Dataware house and MoEngage dashboard.
+  4: Written various scripts to fix the schema of the base and change log tables.
+  5: Revamp user re-sync and user compact feature.
+  6: Implemented PII(Personal Identifiable Information) hiding for user profle, user info, events info, user search, user pop-up, and recent events.
+  7: Implemented Nested AND/OR and aggregation feature.
+  8: Sentry integration in all Java services.
+  9: Data retention CRUD APIs in py3 client and change history tracking.
+  10: Improvements in events based on metadata API results.
+  11: Mongo Elasticsearch sync revamp - Tech documentation, DTO for BSON document to ES doc, ES write flush.
+  12: SDP(Single Data Pipeline) Request ID integration with DW and data points.
+  13: Service onboard and set up in new AWS and Azure data centers.
+    Pager duties and on-call responsibilities.
 
 - title: Founder, Raptor Academy, IN
   from: March 2021

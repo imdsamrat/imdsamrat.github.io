@@ -29,15 +29,3 @@
 - name: ELK
   percentage: 90
   color: success
-
-- name: Kafka
-  percentage: 70
-  color: success
-
-- name: Spark
-  percentage: 70
-  color: success
-
-- name: Airflow
-  percentage: 70
-  color: success
